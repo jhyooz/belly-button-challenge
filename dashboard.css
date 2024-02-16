@@ -1,0 +1,30 @@
+<style>
+    /* Change the background color of the well */
+.well {
+    background-color: white;
+}
+
+/* Change the text color of the well heading */
+.well h5 {
+    color: black;
+}
+
+/* Change the background color of the panel heading */
+.panel-primary > .panel-heading {
+    background-color: #3A7254;
+}
+
+/* Change the text color of the panel title */
+.panel-primary > .panel-heading > .panel-title {
+    color: white;
+}
+
+/* Change the background color of the panel body */
+.panel-primary > .panel-body {
+    background-color: #9DB9A9;
+}
+
+.panel-primary {
+    border-color: #3A7254;
+}
+</style>
