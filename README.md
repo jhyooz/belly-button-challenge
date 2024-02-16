@@ -4,7 +4,7 @@ The dashboard is deployed to GitHub Pages, which you can access [here](https://j
 
 ## How to use
 1. Select Sample: Use the dropdown to choose a sample ID from the dataset. 
-2. View Visualizations: The dashboard includes demographic information, a horizontal bar chart and a bubble chart. 
+2. View Visualizations: The dashboard includes demographic information, a horizontal bar chart, a gauge chart and a bubble chart. 
 3. Update Visualizations: When a new sample ID is selected all visualizations and metadata will be updated.
 
 ---
