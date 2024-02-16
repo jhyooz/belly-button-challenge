@@ -1,4 +1,13 @@
 # Interactive Visualizations
+## Deployment
+The dashboard is deployed to GitHub Pages, which you can access [here](https://jhyooz.github.io/belly-button-challenge/).
+
+## How to use
+1. Select Sample: Use the dropdown to choose a sample ID from the dataset. 
+2. View Visualizations: The dashboard includes demographic information, a horizontal bar chart and a bubble chart. 
+3. Update Visualizations: When a new sample ID is selected all visualizations and metadata will be updated.
+
+---
 
 ### **Background**
 In this assignment, you will build an interactive dashboard to explore the [Belly Button Biodiversity](http://robdunnlab.com/projects/belly-button-biodiversity/) datasetLinks to an external site., which catalogs the microbes that colonize human navels.
